@@ -68,7 +68,7 @@ const BlogDetails = () => {
         </Link>
         <div className={classes.wrapper}>
           <img
-            src={`http://localhost:5000/images/${blogDetails?.photo}`}
+            src={`https://blog-2czz.onrender.com/images/${blogDetails?.photo}`}
             alt=""
           />
           <div className={classes.titleAndControls}>

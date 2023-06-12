@@ -52,6 +52,10 @@ const Login = () => {
           <p>
             Don't have an account? <Link to="/register">Register</Link>{" "}
           </p>
+          <div>
+            <p>Email: user1@gmail.com</p>
+            <p>Password: 123456789</p>
+          </div>
         </form>
       </div>
     </div>
